@@ -1,6 +1,12 @@
 {% load static %}
+
+@font-face {
+    font-family: "Moderne Sans";
+    src: url('moderne_sans.ttf') format("truetype");
+}
+
 body, html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Moderne Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
