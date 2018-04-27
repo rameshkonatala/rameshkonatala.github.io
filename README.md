@@ -1,2 +1,2 @@
 # rameshkonatala.github.io
-[http://rameshkonatala.github.io](webiste link)
+[webiste link](http://rameshkonatala.github.io)
